@@ -11,3 +11,6 @@ Now you can install the **dlib** file, but you have to know which python version
 ![step2](https://github.com/Anikcb/dlib_problem/blob/main/Data/step_2.png?raw=true)
 ### you can download the wheel file from here or [Link](https://pypi.org/simple/dlib/)
 ### check your packages: pip feeze
+<br><br><br>
+# In Linux and Mac
+[Go to the Link](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)
